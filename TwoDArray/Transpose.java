@@ -1,4 +1,4 @@
-package TwoDArray;
+
 
 public class Transpose {
     public static void main(String[] args) {
